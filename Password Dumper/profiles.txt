@@ -1,0 +1,23 @@
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : ZOLspot
+    All User Profile     : nett
+    All User Profile     : Student_AP
+    All User Profile     : S_Block_AP
+    All User Profile     : N_Block_AP
+    All User Profile     : Tdtags
+    All User Profile     : 640XL
+    All User Profile     : I Pronounce you man and WiFi
+    All User Profile     : Chigyz
+    All User Profile     : Yepaden
+    All User Profile     : Yepaden 2
+    All User Profile     : HUAWEI-B315-9224
+    All User Profile     : Exit
+
